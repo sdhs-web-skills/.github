@@ -1,11 +1,9 @@
 # SDHS Web Design & Development
 
-##서울디지텍고등학교 웹디자인 및 개발 기능반
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9cc32bb-46aa-47a9-a393-30fe90d2b349" />
+**서울디지텍고등학교 웹디자인 및 개발 기능반**
 
 웹디자인과 웹개발을 기반으로
-##새로운 아이디어를 직접 기획하고, 디자인하고, 구현합니다.
+**새로운 아이디어를 직접 기획하고, 디자인하고, 구현합니다.**
 
 ### 🛠️ What We Do
 
@@ -17,11 +15,11 @@
 
 ### 📩 Contact
 
-##Email
+**Email**
 [sdh250306@sdh.hs.kr](mailto:sdh250306@sdh.hs.kr)
 [Kazinobel9807@gmail.com](mailto:Kazinobel9807@gmail.com)
 
-##Discord
+**Discord**
 NOBEL7422
 
 궁금한 점이나 협업 관련 문의가 있다면 편하게 연락해주세요.
